@@ -2,6 +2,8 @@
 
 - This project includes a collection of JavaScript files, whose purpose is to provide some summary notes, as well as implementations of most of the standard data structures and algorithms.
 
+- Do contact me if you find any errors, especially in my implementation code.
+
 - Data structures that are covered include:
   - Linked List
   - Stack
